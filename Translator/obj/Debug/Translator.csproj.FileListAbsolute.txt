@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\Translator\Translator\bin\Debug\Translator.exe.config
+C:\Users\User\Desktop\Translator\Translator\bin\Debug\Translator.exe
+C:\Users\User\Desktop\Translator\Translator\bin\Debug\Translator.pdb
+C:\Users\User\Desktop\Translator\Translator\obj\Debug\Translator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Translator\Translator\obj\Debug\Translator.Properties.Resources.resources
+C:\Users\User\Desktop\Translator\Translator\obj\Debug\Translator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Translator\Translator\obj\Debug\Translator.exe
+C:\Users\User\Desktop\Translator\Translator\obj\Debug\Translator.pdb
+C:\Users\User\Desktop\Translator\Translator\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\User\Desktop\Translator\Translator\obj\Debug\Translator.csproj.CopyComplete
+C:\Users\User\Desktop\Translator\Translator\obj\Debug\Translator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Translator\Translator\obj\Debug\Translator.MainForm.resources
+D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\bin\Debug\Translator.exe.config
+D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\bin\Debug\Translator.exe
+D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\bin\Debug\Translator.pdb
+D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\obj\Debug\Translator.csprojAssemblyReference.cache
+D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\obj\Debug\Translator.MainForm.resources
+D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\obj\Debug\Translator.Properties.Resources.resources
+D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\obj\Debug\Translator.csproj.GenerateResource.cache
+D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\obj\Debug\Translator.csproj.CoreCompileInputs.cache
+D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\obj\Debug\Translator.csproj.CopyComplete
+D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\obj\Debug\Translator.exe
+D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\obj\Debug\Translator.pdb
