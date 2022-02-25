@@ -22,3 +22,16 @@ D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\obj\
 D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\obj\Debug\Translator.csproj.CopyComplete
 D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\obj\Debug\Translator.exe
 D:\Common Files\All files\Projects\Projects archieved\Translator\Translator\obj\Debug\Translator.pdb
+C:\Users\umarbek-win10\Desktop\translator\Translator\bin\Debug\Translator.exe.config
+C:\Users\umarbek-win10\Desktop\translator\Translator\bin\Debug\Translator.exe
+C:\Users\umarbek-win10\Desktop\translator\Translator\bin\Debug\Translator.pdb
+C:\Users\umarbek-win10\Desktop\translator\Translator\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\umarbek-win10\Desktop\translator\Translator\obj\Debug\Translator.csproj.AssemblyReference.cache
+C:\Users\umarbek-win10\Desktop\translator\Translator\obj\Debug\Translator.csproj.SuggestedBindingRedirects.cache
+C:\Users\umarbek-win10\Desktop\translator\Translator\obj\Debug\Translator.MainForm.resources
+C:\Users\umarbek-win10\Desktop\translator\Translator\obj\Debug\Translator.Properties.Resources.resources
+C:\Users\umarbek-win10\Desktop\translator\Translator\obj\Debug\Translator.csproj.GenerateResource.cache
+C:\Users\umarbek-win10\Desktop\translator\Translator\obj\Debug\Translator.csproj.CoreCompileInputs.cache
+C:\Users\umarbek-win10\Desktop\translator\Translator\obj\Debug\Translator.csproj.CopyComplete
+C:\Users\umarbek-win10\Desktop\translator\Translator\obj\Debug\Translator.exe
+C:\Users\umarbek-win10\Desktop\translator\Translator\obj\Debug\Translator.pdb

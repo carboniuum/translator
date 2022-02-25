@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Windows.Forms;
 
 namespace Translator
@@ -33,6 +34,7 @@ namespace Translator
         {
             if (m.Msg == 0x0312)
             {
+                SendKeys.Send("^(c)");
                 main.TranslateText(out string inp, out string outp, labelLeft.Text);
                 textBoxLeft.Text = inp;
                 textBoxRight.Text = outp;
