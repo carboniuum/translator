@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Diagnostics;
 using System.Windows.Forms;
 
 namespace Translator
@@ -19,6 +18,39 @@ namespace Translator
             thisWindow = Main.FindWindow(null, "Main Form");
             main = new Main(thisWindow);
             main.RegisterHotKeys();
+
+            notifyIcon.BalloonTipTitle = "Translator app";
+            notifyIcon.BalloonTipText = "App is hidden";
+            notifyIcon.Text = "Translator app";
+        }
+
+        private void MainForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            main.UnRegisterHotKeys();
+        }
+
+        private void notifyIcon_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            this.Show();
+            notifyIcon.Visible = false;
+            WindowState = FormWindowState.Normal;
+        }
+
+        private void MainForm_Resize(object sender, EventArgs e)
+        {
+            if (WindowState == FormWindowState.Minimized)
+            {
+                this.Hide();
+                notifyIcon.Visible = true;
+                notifyIcon.ShowBalloonTip(1000);
+            }
+            else
+            {
+                if (FormWindowState.Normal == this.WindowState)
+                {
+                    notifyIcon.Visible = false;
+                }
+            }
         }
 
         private void buttonToggle_Click(object sender, EventArgs e)
@@ -40,12 +72,6 @@ namespace Translator
                 textBoxRight.Text = outp;
             }
             base.WndProc(ref m);
-        }
-
-        private void pictureBoxClose_Click(object sender, EventArgs e)
-        {
-            main.UnRegisterHotKeys();
-            this.Close();
         }
     }
 
